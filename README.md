@@ -2,4 +2,4 @@
 
 Just another repository
 
-THis is my first/second time using github :o
+This is my first/second time using github :o
